@@ -1,0 +1,19 @@
+# The directory used to store data files
+**/data/*
+!**/data/readme.md
+# The file used to store environmental variables
+.env
+# Files stored by vscode
+**/.vscode
+# Python cache
+**/__pycache__
+# Jupyter notebook checkpoints
+**/.ipynb_checkpoints
+# Trash files created by Docker
+**/.Trash-*
+# Virtual env files
+**/venv
+venv
+.venv
+# Checkpoint model files
+**/checkpoints
